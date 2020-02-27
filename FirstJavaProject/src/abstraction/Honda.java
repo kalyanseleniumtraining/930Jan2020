@@ -6,6 +6,7 @@ abstract public class Honda {
 		System.out.println(2);
 	}
 
+	
 	abstract public void gears();
 
 	abstract public void color();
